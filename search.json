@@ -2,15 +2,64 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "clases_daniel_acosta",
+    "title": "Sobreviviendo a la Tesis con R",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Este sitio reúne los materiales de trabajo utilizados durante las clases de R orientadas al desarrollo de la tesis de Daniel Acosta.\nEl objetivo es construir un flujo de trabajo reproducible para la gestión, procesamiento y análisis de datos, incorporando buenas prácticas de investigación y programación."
+  },
+  {
+    "objectID": "index.html#bienvenido",
+    "href": "index.html#bienvenido",
+    "title": "Sobreviviendo a la Tesis con R",
+    "section": "",
+    "text": "Este sitio reúne los materiales de trabajo utilizados durante las clases de R orientadas al desarrollo de la tesis de Daniel Acosta.\nEl objetivo es construir un flujo de trabajo reproducible para la gestión, procesamiento y análisis de datos, incorporando buenas prácticas de investigación y programación."
+  },
+  {
+    "objectID": "index.html#qué-encontrarás-aquí",
+    "href": "index.html#qué-encontrarás-aquí",
+    "title": "Sobreviviendo a la Tesis con R",
+    "section": "¿Qué encontrarás aquí?",
+    "text": "¿Qué encontrarás aquí?\n\n📚 Clases\nMateriales, ejercicios y ejemplos trabajados durante las clases.\n\n\n📊 Proyecto de tesis\nDocumentación del procesondefined de análisis, decisiones metodológicas y avances del proyecto.\n\n\n💻 Bases de ejemplo\nArchivos de práctica para experimentar con técnicas de limpieza, transformación y análisis de datos.\n\n\n🛠 Herramientas\nGuías, enlaces, paquetes de R y materiales complementarios.\n\n\n🎯Plan de guerra\n☑ Definición del problema ☑ Recolección de datos ☑ Organización de bases ◐ Procesamiento □ Análisis □ Escritura □ Defensa"
+  },
+  {
+    "objectID": "clases/02_ejercicios_graficos.qmd.html",
+    "href": "clases/02_ejercicios_graficos.qmd.html",
+    "title": "02_ejercicios_graficos.qmd",
+    "section": "",
+    "text": "Descargar el script aqui"
+  },
+  {
+    "objectID": "plan.html",
+    "href": "plan.html",
+    "title": "Plan de guerra",
+    "section": "",
+    "text": "Elaboración del Plan de Cuadros como parte del trabajo de planificación de análisis elaboramos nuestro primer PDC\nRepaso de procesamieno de datos básico\nSegmentar la población: en las clases trabajamos en ver cómo segmentar nuestra población de estudiantes\nEjercicios de gráficos\nAprendemos a organizar nuestro proyecto de investigación\nQuarto\nProyectos reproductibles con GitHub"
+  },
+  {
+    "objectID": "plan.html#procesamiento",
+    "href": "plan.html#procesamiento",
+    "title": "Plan de guerra",
+    "section": "",
+    "text": "Elaboración del Plan de Cuadros como parte del trabajo de planificación de análisis elaboramos nuestro primer PDC\nRepaso de procesamieno de datos básico\nSegmentar la población: en las clases trabajamos en ver cómo segmentar nuestra población de estudiantes\nEjercicios de gráficos\nAprendemos a organizar nuestro proyecto de investigación\nQuarto\nProyectos reproductibles con GitHub"
+  },
+  {
+    "objectID": "clases/01_ejercicios_segmentacion.html",
+    "href": "clases/01_ejercicios_segmentacion.html",
+    "title": "01_ejercicios_segmentacion",
+    "section": "",
+    "text": "Descargar aqui"
+  },
+  {
+    "objectID": "clases/00_manipulacion_datos.html",
+    "href": "clases/00_manipulacion_datos.html",
+    "title": "Manipulacion de datos",
+    "section": "",
+    "text": "En esta clase trabajamos los elementos básicos de manipulación de datos con r\nDescargar el script aqui"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Sobre este sitio",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Notebooks, scripts, bases de datos y decisiones metodológicas para llegar vivo a la defensa."
   }
 ]
