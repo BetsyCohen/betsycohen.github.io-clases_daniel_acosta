@@ -18,14 +18,14 @@
     "href": "index.html#qué-encontrarás-aquí",
     "title": "Sobreviviendo a la Tesis con R",
     "section": "¿Qué encontrarás aquí?",
-    "text": "¿Qué encontrarás aquí?\n\n📚 Clases\nMateriales, ejercicios y ejemplos trabajados durante las clases.\n\n\n📊 Proyecto de tesis\nDocumentación del procesondefined de análisis, decisiones metodológicas y avances del proyecto.\n\n\n💻 Bases de ejemplo\nArchivos de práctica para experimentar con técnicas de limpieza, transformación y análisis de datos.\n\n\n🛠 Herramientas\nGuías, enlaces, paquetes de R y materiales complementarios.\n\n\n🎯Plan de guerra\n☑ Definición del problema ☑ Recolección de datos ☑ Organización de bases ◐ Procesamiento □ Análisis □ Escritura □ Defensa"
+    "text": "¿Qué encontrarás aquí?\n\n📚 Clases\nMateriales, ejercicios y ejemplos trabajados durante las clases.\n\n\n📊 Proyecto de tesis\nDocumentación del procesondefined de análisis, decisiones metodológicas y avances del proyecto.\n\n\n💻 Bases de ejemplo\nArchivos de práctica para experimentar con técnicas de limpieza, transformación y análisis de datos.\n\n\n🛠 Herramientas\nGuías, enlaces, paquetes de R y materiales complementarios.\n\n\n🎯Plan de guerra\n☑ Definición del problema\n☑ Recolección de datos\n☑ Organización de bases\n◐ Procesamiento\n□ Análisis\n□ Escritura\n□ Defensa"
   },
   {
     "objectID": "clases/02_ejercicios_graficos.qmd.html",
     "href": "clases/02_ejercicios_graficos.qmd.html",
-    "title": "02_ejercicios_graficos.qmd",
+    "title": "Ejercicios de gráficos con ggplot",
     "section": "",
-    "text": "Descargar el script aqui"
+    "text": "En estas clases trabajamos en las múltiples formas de contar historias con gráficos con una librería clásica de R ggplot\nDescargar el script aquí"
   },
   {
     "objectID": "plan.html",
@@ -44,9 +44,9 @@
   {
     "objectID": "clases/01_ejercicios_segmentacion.html",
     "href": "clases/01_ejercicios_segmentacion.html",
-    "title": "01_ejercicios_segmentacion",
+    "title": "Ejercicios de segmentación",
     "section": "",
-    "text": "Descargar aqui"
+    "text": "En estas clases trabajamos en el proceso de una segmentación inicial del universo de alumnos en función de su trayectoria\nDescargar el script aquí"
   },
   {
     "objectID": "clases/00_manipulacion_datos.html",
